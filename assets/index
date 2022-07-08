@@ -126,7 +126,7 @@
                             <div class="row">
                                 <div class="col-12 justify-content-center">
                                     <div class="foto">
-                                        <img src="assets\portfolio-1.jpg" alt="Poconos">
+                                        <img src="https://github.com/Chacareroinmortal/Poconos-html/blob/gh-pages/assets/portfolio-1.jpg" alt="Poconos">
                                     </div>
                                     <div class="logo_principal">
                                         <img class="logo_grande" src="assets\portfolio-2.jpg" alt="Poconos">
